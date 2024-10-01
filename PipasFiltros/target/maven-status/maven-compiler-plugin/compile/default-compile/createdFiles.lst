@@ -1,0 +1,7 @@
+com\mycompany\pipasfiltros\PipasFiltros.class
+com\mycompany\pipasfiltros\IFilter.class
+com\mycompany\pipasfiltros\Pipe.class
+com\mycompany\pipasfiltros\Pipeline.class
+com\mycompany\pipasfiltros\RemoveSpacesFilter.class
+com\mycompany\pipasfiltros\UpperCaseFilter.class
+com\mycompany\pipasfiltros\ReverseStringFilter.class
